@@ -179,5 +179,4 @@ mod test {
     fn test_calc_odd() {
         assert_eq!(calculate_odd_from_text("3,11,12,16,24,25\n"), 61);
     }
-
 }
