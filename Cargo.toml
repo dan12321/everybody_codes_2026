@@ -1,0 +1,9 @@
+[workspace]
+members = []
+
+[workspace.package]
+name = "everybody_codes_2026"
+version = "0.1.0"
+edition = "2024"
+
+[workspace.dependencies]
