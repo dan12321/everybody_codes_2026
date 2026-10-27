@@ -1,8 +1,8 @@
 [workspace]
-members = []
+members = ["quest_1_the_coneservation"]
+resolver = "3"
 
 [workspace.package]
-name = "everybody_codes_2026"
 version = "0.1.0"
 edition = "2024"
 
